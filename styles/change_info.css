@@ -1,0 +1,84 @@
+body {
+    /* color de fondo para la visualizacion */
+    background-color: #eee;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.backLink {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.content_ChangeInfo {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.content_ChangeInfo2 {
+    font-weight: 500;
+    font-size: 13px;
+    color: #828282;
+    padding-left: 10px;
+}
+
+.button_Save_ChangeInfo {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+
+.form_img_ChangeInfo {
+    display: flex;
+    align-items: center;
+}
+
+.form_img_ChangeInfo_Icon {
+    position:relative;
+    width: 72px;
+    height: 72px;
+}
+
+.form_img_ChangeInfo_Icon img{
+    width: 100%;
+    height: auto;
+}
+
+.form_img_ChangeInfo_Icon .btn_Change_Img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #000;
+    color: white;
+    font-size: 5px;
+    padding: 3px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.img_ChangeInfo {
+    width: 72px;
+    height: 72px;
+    border-radius: 12px;
+}
+
+.btn_Change_Img {
+    border: none;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card-body>h2 {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.back_personal_info {
+    color: #2D9CBD;
+    font-size: 18px;
+    text-decoration: none;
+}

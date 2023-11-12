@@ -1,0 +1,9 @@
+body {
+    /* color de fondo para la visualizacion */
+    background-color: #eee;  
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
