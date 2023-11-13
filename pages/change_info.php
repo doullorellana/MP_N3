@@ -24,6 +24,15 @@
         <div class="mask d-flex align-items-center h-100">
             <div class="container h-100">
                 <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="footer_ChangeInfo">
+                        <div>
+                            <img src="../assets/devchallenges.svg"><p class="content_ChangeInfo2"></p>
+                        </div>
+                        <div>
+                            <h6>Menu</h6>
+                        </div>
+                    </div>
+
                     <div class="col-12 col-md-9 col-lg-7 col-xl-6">
                         <div class="backLink">
                             <a href="./personal_info.php" class="back_personal_info"><img src="../assets/back.svg"> Back</a>
@@ -31,7 +40,7 @@
                         <div class="card">
                             <div class="card-body p-5">
                                 <h2 class="text-left mb-1">Change Info</h2>
-                                <p class="content_ChangeInfo">Changes will be reflected to every services</p>
+                                <p class="content_ChangeInfo3">Changes will be reflected to every services</p>
 
                                 <form>
                                     <div class="form_img_ChangeInfo">
@@ -76,9 +85,9 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="form_img_ChangeInfo">
+                        <div class="footer_ChangeInfo">
                             <div>
-                                <h5 class="content_ChangeInfo">created by Doull Orellana</h5>
+                                <h5 class="content_ChangeInfo">created by <strong>Doull Orellana</strong></h5>
                             </div>
                             <div>
                                 <h5 class="content_ChangeInfo">devChallenges.io</h5>
