@@ -101,3 +101,9 @@ A continuación te presentaremos los puntos que se tomarán en cuenta para la ca
 - Hacer el modo oscuro de la aplicación.
 - Cumplir con el diseño responsive que se proporcionan en el archivo Figma (para la vista mobile usa 375px, y para la vista desktop,1280px de ancho).
 - Alguna otra funcionalidad que le agregues, siempre y cuando respetes el diseño y el resto de funcionalidades ya definidas, también sumarán puntos extras.
+
+## Acances resientes:
+- Actualizacion responsiva plantilla formulario Change_Info para escritorio y mobile.
+
+![Change_Info_Desktop](https://github.com/doullorellana/MP_N3/blob/main/avances/Change_Info.png)
+![Change_Info_Mobile](https://github.com/doullorellana/MP_N3/blob/main/avances/Change_Info_Mobile.png)
